@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mui-dev/static/css/main.e6c13ad2.css",
+    "main.js": "/mui-dev/static/js/main.5b1ed3e5.js",
+    "index.html": "/mui-dev/index.html",
+    "main.e6c13ad2.css.map": "/mui-dev/static/css/main.e6c13ad2.css.map",
+    "main.5b1ed3e5.js.map": "/mui-dev/static/js/main.5b1ed3e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5b1ed3e5.js"
+  ]
+}
