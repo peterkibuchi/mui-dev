@@ -73,7 +73,7 @@ const Navbar = () => {
         <UserBox onClick={(e) => setOpen(!open)}>
           <Typography variant="span">Stacy</Typography>
           <Avatar
-            alt="Cindy Baker"
+            alt="Gwen Stacy"
             src="https://images.pexels.com/photos/1102341/pexels-photo-1102341.jpeg?cs=srgb&dl=pexels-daniel-xavier-1102341.jpg&fm=jpg"
           />
         </UserBox>
